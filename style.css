@@ -1,0 +1,237 @@
+@media screen and (min-width: 769px){
+
+body {
+    font-family: 'Yu gothic', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#logo {
+    padding: 20px;
+}
+
+#brdc {
+    float: right;
+}
+
+#brdc a{
+    text-decoration: none;
+    color: #303030;
+}
+
+#brdc a:hover {
+    border-color: lightsalmon;
+    color: indianred;
+}
+
+#header {
+    text-decoration: none;
+    font-size: 15pt;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+    width: 40%;
+}
+
+#header .li {
+    color: #303030;
+    list-style: none;
+    border-left: solid 5px darkslategray;
+    border-bottom: dotted 2px dimgray;
+    padding: 10px;
+}
+
+#header .li:hover {
+    border-color: lightsalmon;
+    color: indianred;
+}
+
+.rtcl {
+    border-radius: 20px;
+    list-style: none;
+    text-indent: 10px;
+    background-color: darkslategrey;
+    color: white;
+    padding: 5px;
+}
+
+#smry {
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkslategray;
+    padding: 5px;
+    margin: 7px;
+    line-height: 2;
+}
+
+#mnua, #mnub, #mnuc {
+    display: block;
+}    
+
+#mnua a, #mnub a, #mnuc a {
+    text-decoration: none;
+}
+
+#mnua a:hover, #mnub a:hover, #mnuc a:hover{
+    border-color: lightsalmon;
+    color: indianred;
+}
+
+#flds {
+    list-style-type: none;
+    border-bottom: dotted 2px dimgray;
+    color: #303030;
+}
+
+#flds:hover {
+    border-color: lightsalmon;
+    color: indianred;
+}
+
+#nav {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: center;
+    text-indent: 30px;
+    clear: both;
+}
+
+#nav #bnnr {
+    padding: 10px;
+}
+
+footer {
+    color:white;
+    background-color: darkslategray;
+    height: 350px;
+}
+
+#sitemap {
+    padding: 30px;
+}
+
+#sitemap section {
+    padding: 20px;
+    display: inline;
+    position: relative;
+}
+
+#sitemap section li {
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+#sitemap section li a {
+    text-decoration: none;
+    color: white;
+}
+
+#lft {
+    padding-left: 30px;
+    float: left;
+}
+
+#lft li:hover, #lft li a:hover {
+    color: lightsalmon;
+}
+
+#cnt {
+    padding-left: 60px;
+    float: left;
+}
+
+#cnt li:hover, #cnt li a:hover {
+    color: lightsalmon;
+}
+
+#rgt {
+    padding-left: 80px;
+    float: left;
+}
+
+#rgt li:hover, #rgt li a:hover {
+    color: lightsalmon;
+}
+
+.rght {
+    margin-left: 45%;
+}
+
+address {
+    clear: both;
+    text-decoration: none;
+    text-align: center;
+}
+
+}
+
+@media screen and (max-width: 768px){
+
+#logo {
+    padding: 10px;
+}
+
+#header a {
+    text-decoration: none;
+    font-size: 15pt;
+    padding: 10px;
+    margin: 5px;
+}
+
+#header a li {
+    color: #303030;
+    list-style: none;
+    border-left: solid 5px darkslategray;
+    border-bottom: dotted 2px dimgray;
+    padding: 10px;
+}
+
+footer {
+    height: 150px;
+}
+
+#sitemap {
+    padding: 20px;
+}
+
+#sitemap section {
+    padding: 30px;
+    display: inline;
+}
+
+}
+
+@media screen and (max-width: 640px){
+    
+#logo {
+    padding: 10px;
+}
+
+#header a {
+    text-decoration: none;
+    font-size: 15pt;
+    padding: 10px;
+    margin: 5px;
+}
+
+#header a li {
+    color: #303030;
+    list-style: none;
+    border-left: solid 5px darkslategray;
+    border-bottom: dotted 2px dimgray;
+    padding: 10px;
+}
+
+footer {
+    height: 100px;
+}
+
+#sitemap {
+    padding: 10px;
+}
+
+#sitemap section {
+    padding: 20px;
+    display: inline;
+}
+
+}
