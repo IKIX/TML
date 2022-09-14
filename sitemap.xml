@@ -3,49 +3,58 @@
 
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
-  <loc>http://nanyaka.info/tml/</loc>
+  <loc>https://tml.potaro.org/</loc>
   <priority>1.0</priority>
   <lastmod>2018-08-12T17:36:20+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/index.html</loc>
+  <loc>https://tml.potaro.org/index.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:36:20+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/unvr.html</loc>
+  <loc>https://tml.potaro.org/unvr.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:44:59+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/lfsc.html</loc>
+  <loc>https://tml.potaro.org/lfsc.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:43:30+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/nrsc.html</loc>
+  <loc>https://tml.potaro.org/nrsc.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:44:32+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/infm.html</loc>
+  <loc>https://tml.potaro.org/infm.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:43:12+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/mthm.html</loc>
+  <loc>https://tml.potaro.org/mthm.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:43:58+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/mtrl.html</loc>
+  <loc>https://tml.potaro.org/mtrl.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:44:13+09:00</lastmod>
 </url>
 <url>
-  <loc>http://nanyaka.info/tml/ecnm.html</loc>
+  <loc>https://tml.potaro.org/ecnm.html</loc>
   <priority>0.8</priority>
   <lastmod>2018-08-12T17:42:52+09:00</lastmod>
 </url>
-
+<url>
+  <loc>https://tml.potaro.org/fldd.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2018-08-12T17:42:52+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/cmmn.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2018-08-12T17:42:52+09:00</lastmod>
+</url>
 </urlset>
