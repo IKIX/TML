@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    width: 42em;
+    max-width: 95%;
+    margin: 0 auto;
+    background: papayawhip;
+    font-family: sans-serif;
+}
+
+p {
+    text-indent: 1rem;
+}
+
+h1 {
+    color: midnightblue;
+}
+
+h2 {
+    color: midnightblue;
+}
+
+a {
+   display: block;
+   width: 8em;
+   padding: 1rem 2rem;
+   background: darkslategray;
+   color: #fff;
+   text-decoration: none;
+   text-align: center;
+   font-weight: bold;
+   margin: 0 auto;
+}
+
+a:hover {
+    background: #000;
+}
+
+p a {
+    text-indent: 0;
+}

@@ -3,7 +3,7 @@
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8" />
-    <meta name="keywords" content="tml, 髙橋数理研究所, ポーカー, ポリゴングラフ, グラフのペースト, メンガーのふるい, リープグラフ, 複素確率, リーマン予想, チューリングパターン, らせん拡大, 位数部" />
+    <meta name="keywords" content="tml, 髙橋数理研究所, ポーカー, ポリゴングラフ, ルービック行列, グラフのペースト, メンガーのふるい, リープグラフ, 複素確率, リーマン予想, チューリングパターン, らせん拡大, 位数部" />
     <meta name="description" content="数理で解き明かす情報・宇宙・生命" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>
@@ -35,7 +35,7 @@
                 <ul id="mnub">
                     <a href="#pkfl" class="pkfl">
                         <li class="flds">
-                            ポーカー・流体・待機列
+                            ポーカー構造と演算子
                         </li>
                     </a>
                     <a href="#plgr" class="plgr">
@@ -51,6 +51,16 @@
                     <a href="#ctps" class="ctps">
                         <li class="flds">
                             グラフのカット・ペースト
+                        </li>
+                    </a>
+                    <a href="#ioth" class="ioth">
+                        <li class="flds">
+                            流入流出定理と流向記法
+                        </li>
+                    </a>
+                    <a href="#rbkm" class="rbkm">
+                        <li class="flds">
+                            ルービック行列
                         </li>
                     </a>
                     <a href="#lpgr" class="lpgr">
@@ -76,7 +86,7 @@
                 <!--none-->
             </div>
             <div id="pkfl" class="sbjc">
-                <li class="rtcl">●ポーカー・流体・待機列
+                <li class="rtcl">●ポーカー構造と演算子
                 </li>
                 <div class="smry">
                     積んだ層をスタックは上，キューは下，ポーカーは中を引き抜く．管の穴から出る流体や，書棚から取る本は同じ構造である．
@@ -101,6 +111,20 @@
                 </li>
                 <div class="smry">
                     グラフの辺を切断する操作に対し，節と節を辺でつなぐ操作がある．交通・通信・神経等，ネットワークの基本演算である．
+                </div>
+            </div>
+            <div id="ioth" class="sbjc">
+                <li class="rtcl">●流入流出定理と流向記法
+                </li>
+                <div class="smry">
+                    あるノードにおいて，グラフ上の流れの出入りの量が一定になることに基づき，グラフ流の方向を予測できる定理である．
+                </div>
+            </div>
+            <div id="rbkm" class="sbjc">
+                <li class="rtcl">●ルービック行列
+                </li>
+                <div class="smry">
+                    行，列に「形（けい）」を加えた3次元の構造を考えることで，非線形とされる問題が代数的に解けるようになる．
                 </div>
             </div>
             <div id="lpgr" class="sbjc">
@@ -250,6 +274,8 @@
             showit(".plgr", "#plgr");
             showit(".mngr", "#mngr");
             showit(".ctps", "#ctps");
+            showit(".ioth", "#ioth");
+            showit(".rbkm", "#rbkm");
             showit(".lpgr", "#lpgr");
             showit(".rhtp", "#rhtp");
             showit(".sthl", "#sthl");
