@@ -17,6 +17,8 @@
     <meta property="og:description" content="数理で解き明かす情報・宇宙・生命" />
     <link rel="stylesheet" href="style.css" type="text/css" />
     <link rel="icon" type="image/png" href="fvcn.png">
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js"></script>
+    <script src="nav.js"></script>
 </head>
 
 <body>
@@ -61,6 +63,16 @@
                     <a href="#gnrd" class="gnrd">
                         <li class="flds">
                             遺伝的再分配
+                        </li>
+                    </a>
+                    <a href="#rrrt" class="rrrt">
+                        <li class="flds">
+                            珍しさの相対情報論
+                        </li>
+                    </a>
+                    <a href="#ncrr" class="ncrr">
+                        <li class="flds">
+                            画一化非生起定理
                         </li>
                     </a>
                     <a href="#ptpg" class="ptpg">
@@ -117,6 +129,20 @@
                     病や特性が遺伝するから，貧困も富も遺伝する．社会的再分配が公正さを持つ根拠である．
                 </div>
             </div>
+            <div id="rrrt" class="sbjc">
+                <li class="rtcl">●珍しさの相対情報論
+                </li>
+                <div class="smry">
+                    ある場所で珍しくなくなっても，別の場所では珍しい．世界から珍しさがなくなることはない．
+                </div>
+            </div>
+            <div id="ncrr" class="sbjc">
+                <li class="rtcl">●画一化非生起定理
+                </li>
+                <div class="smry">
+                    系の多様性が少しでも存続する限り，珍しさが画一化することはない．系の完全な画一化は起こりえない．
+                </div>
+            </div>
             <div id="ptpg" class="sbjc">
                 <li class="rtcl">●ピケティプログラム
                 </li>
@@ -126,24 +152,19 @@
             </div>
         </div>
     </header>
-    <div id="nav">
-        <a href="unvr.html"><img class="bnnr" src="UNVR.PNG" /></a>
-        <a href="lfsc.html"><img class="bnnr" src="LFSC.PNG" /></a>
-        <a href="nrsc.html"><img class="bnnr" src="NRSC.PNG" /></a>
-        <a href="infm.html"><img class="bnnr" src="INFM.PNG" /></a>
-        <a href="cmmn.html"><img class="bnnr" src="CMMN.PNG" /></a>
-        <a href="mthm.html"><img class="bnnr" src="MTHM.PNG" /></a>
-        <a href="mtrl.html"><img class="bnnr" src="MTRL.PNG" /></a>
-        <a href="fldd.html"><img class="bnnr" src="FLDD.PNG" /></a>
-        <a href="ecnm.html"><img class="bnnr" src="ECNM.PNG" /></a>
-    </div>
+    <div id="nav"></div>
     <footer>
         <nav id="sitemap">
-            サイトマップ
+            <a href="sitemap.html">サイトマップ</a>
             <br />
             <div id="lft">
                 <section>
                     <h3>事業内容</h3>
+                    <li>
+                        <a href="index.html#lbrt" class="lbrt">
+                    研究所運営
+        </a>
+                    </li>
                     <li>
                         <a href="index.html#nchy" class="nchy">
                     日曜数学活動
@@ -153,37 +174,31 @@
                         <a href="index.html#wbst" class="wbst">
                       ウェブサイト運営
         </a>
+                    </li>
                 </section>
             </div>
-            <div id="cnt">
+            <div id="cpt">
                 <section>
-                    <h3>研究成果</h3>
+                    <h3>設立理念</h3>
                     <li>
-                        <a href="unvr.html">宇宙科学</a>
+                        <a href="index.html#mssg" class="mssg">
+                        代表から
+                        </a>
                     </li>
                     <li>
-                        <a href="lfsc.html">生命科学</a>
+                        <a href="index.html#przs" class="przs">
+                        髙橋賞
+                        </a>
                     </li>
+                </section>
+            </div>
+            <div id="mmb">
+                <section>
+                    <h3>研究所員</h3>
                     <li>
-                        <a href="nrsc.html">神経科学</a>
-                    </li>
-                    <li>
-                        <a href="infm.html">情報科学</a>
-                    </li>
-                    <li>
-                        <a href="cmmn.html">通信科学</a>
-                    </li>
-                    <li>
-                        <a href="mthm.html">数理科学</a>
-                    </li>
-                    <li>
-                        <a href="mtrl.html">物質科学</a>
-                    </li>
-                    <li>
-                        <a href="fldd.html">流体科学</a>
-                    </li>
-                    <li>
-                        <a href="ecnm.html">経済科学</a>
+                        <a href="index.html#intr" class="intr">
+                        代表
+                        </a>
                     </li>
                 </section>
             </div>
@@ -191,7 +206,7 @@
                 <section>
                     <h3>お問合せ</h3>
                     <li>
-                        連絡先
+                        連絡先: wyc [at] dgbjdjg.net
                     </li>
                 </section>
             </div>
@@ -203,8 +218,6 @@
         </small>
     </address>
     </footer>
-    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js">
-    </script>
     <script>
         $(function() {
             function rowslide(spn, mnu) {
@@ -252,10 +265,11 @@
             showit(".prpl", "#prpl");
             showit(".pcdg", "#pcdg");
             showit(".gnrd", "#gnrd");
+            showit(".rrrt", "#rrrt");
+            showit(".ncrr", "#ncrr");
             showit(".ptpg", "#ptpg");
         });
-    </script>
-    <script>
+    </script>    <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function() {

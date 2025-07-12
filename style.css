@@ -7,6 +7,12 @@ body {
     margin: 0;
 }
 
+#sitemap > a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #efefef;
+}
+
 #logo {
     padding: 20px;
 }
@@ -65,15 +71,15 @@ body {
     line-height: 2;
 }
 
-#mnua, #mnub, #mnuc {
+#mnua, #mnub, #mnuc, #mnud, #mnue {
     display: block;
 }    
 
-#mnua a, #mnub a, #mnuc a {
+#mnua a, #mnub a, #mnuc a, #mnud a, #mnue a {
     text-decoration: none;
 }
 
-#mnua a:hover, #mnub a:hover, #mnuc a:hover{
+#mnua a:hover, #mnub a:hover, #mnuc a:hover, #mnud a:hover, #mnue a:hover {
     border-color: lightsalmon;
     color: indianred;
 }
@@ -105,6 +111,8 @@ body {
 
 #nav .bnnr {
     padding: 10px;
+    width: 12vw;
+    height: 12vw;
 }
 
 footer {
@@ -148,6 +156,25 @@ footer {
 }
 
 #cnt li:hover, #cnt li a:hover {
+    color: lightsalmon;
+}
+
+#cpt {
+    padding-left: 80px;
+    float: left;
+}
+
+#cpt li:hover, #cpt li a:hover {
+    color: lightsalmon;
+}
+
+#mmb {
+    padding-left: 80px;
+    padding-right: 120px;
+    float: left;
+}
+
+#mmb li:hover, #mmb li a:hover {
     color: lightsalmon;
 }
 
@@ -218,6 +245,8 @@ address {
 
 #nav .bnnr {
     padding: 12px;
+    width: 30vw;
+    height: 30vw;
 }
 
 .rght {
@@ -240,6 +269,11 @@ address {
 
 #sitemap {
     padding: 10px;
+}
+
+#nav .bnnr {
+    width: 40vw;
+    height: 40vw;
 }
 
 #sitemap section {

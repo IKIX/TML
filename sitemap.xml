@@ -5,56 +5,382 @@
 <url>
   <loc>https://tml.potaro.org/</loc>
   <priority>1.0</priority>
-  <lastmod>2018-08-12T17:36:20+09:00</lastmod>
+  <lastmod>2025-03-16T08:36:54+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/index.html</loc>
   <priority>0.8</priority>
-  <lastmod>2018-08-12T17:36:20+09:00</lastmod>
+  <lastmod>2025-03-16T08:36:54+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/tokamachi.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-09-13T13:30:01+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/edison01.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-10-13T03:10:02+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/20221012.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-12-05T23:26:29+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/sitemap.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-05-23T19:10:30+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/unvr.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:44:59+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:20:54+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/lfsc.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:43:30+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:27:59+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/nrsc.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:44:32+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:30:14+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/infm.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:43:12+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:27:17+09:00</lastmod>
 </url>
 <url>
-  <loc>https://tml.potaro.org/mthm.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:43:58+09:00</lastmod>
-</url>
-<url>
-  <loc>https://tml.potaro.org/mtrl.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:44:13+09:00</lastmod>
-</url>
-<url>
-  <loc>https://tml.potaro.org/ecnm.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:42:52+09:00</lastmod>
-</url>
-<url>
-  <loc>https://tml.potaro.org/fldd.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:42:52+09:00</lastmod>
+  <loc>https://tml.potaro.org/intl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:27:41+09:00</lastmod>
 </url>
 <url>
   <loc>https://tml.potaro.org/cmmn.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2018-08-12T17:42:52+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:24:03+09:00</lastmod>
 </url>
+<url>
+  <loc>https://tml.potaro.org/mthm.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:29:12+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/mtrl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:29:32+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/fldd.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:25:22+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/ecnm.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:24:42+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/dsgn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:24:23+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/lngg.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:28:34+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/hmnb.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:26:07+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/aeth.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:23:06+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/lgcl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:28:17+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/ckng.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-08T12:15:08+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/bhvr.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:23:25+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/hrmn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:26:27+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/gnrt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T06:23:57+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/fddr.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:25:03+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/nvst.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:30:35+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/mchn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-04T14:21:53+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/ntrr.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-10T12:46:32+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/frmt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-03T00:54:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/fshn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:25:42+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/grcl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-10T13:14:17+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/lgst.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-06T09:29:55+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/prsv.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-07T21:22:38+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/mtsc.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-06T09:17:26+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/cryp.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-03T18:00:09+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/svng.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-03T08:09:37+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/lwrl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-03T21:26:05+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/ctst.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-06T09:24:03+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/oprt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-03T21:36:50+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/nfln.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T18:48:31+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/crtq.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-04T14:13:34+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/mstk.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-06T09:08:19+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/fnrl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-23T19:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/phnm.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-08T09:38:14+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/bury.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-08T09:38:14+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/strt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-07T21:29:24+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/hlth.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-02T23:57:23+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/slsm.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-03T08:09:36+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/dcsn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-17T19:53:01+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/slpt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-17T20:23:33+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/cncn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-17T20:35:21+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/stps.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-17T20:08:38+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/prcs.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-17T20:00:28+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/ftge.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-19T06:57:28+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/clbt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-19T07:30:27+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/grtt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-20T05:01:23+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/hmrs.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-20T05:08:19+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/rcvr.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-20T05:16:02+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/prdc.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-20T05:24:04+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/abnd.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-21T20:18:45+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/pbsh.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-21T20:25:32+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/trns.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-21T20:32:41+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/insp.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-21T20:48:12+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/rasn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T06:48:36+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/brng.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T06:31:43+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/impr.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T06:48:16+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/lght.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T06:54:58+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/bndn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T07:02:01+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/tlnt.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-04-27T07:09:46+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/qstn.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-02-01T17:34:35+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/mthd.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-12T16:55:30+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/vlbl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-23T19:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/psyc.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-23T19:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/atms.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-23T19:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>https://tml.potaro.org/styl.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2025-05-23T19:05:13+09:00</lastmod>
+</url>
+
 </urlset>
