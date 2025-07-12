@@ -36,6 +36,14 @@ a:hover {
     background: #000;
 }
 
+a:has(.bnnr) {
+    background: #ababab;
+} 
+
+a:hover img {
+    visibility: hidden;
+}
+
 p a {
     text-indent: 0;
 }
